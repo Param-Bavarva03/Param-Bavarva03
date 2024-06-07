@@ -1,7 +1,7 @@
 [![MasterHead](https://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Param Bavarva</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" width="400" src="[https://cdn.dribbble.com/users/1160991/screenshots/6827662/character_student.gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)" alt="Coding">
+<img align="right" width="400" src="[https://cdn.dribbble.com/users/1160991/screenshots/6827662/character_student.gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=param-bavarva03&label=Profile%20views&color=0e75b6&style=flat" alt="param-bavarva03" /> </p>
