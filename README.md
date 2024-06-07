@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/bavarvaparam" target="blank"><img src="https://img.shields.io/twitter/follow/bavarvaparam?logo=twitter&style=for-the-badge" alt="bavarvaparam" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **DSA, Web Development**
 
-- 💬 Ask me about **Compititive Coding, Web Developing**
+- 💬 Ask me about **Compititive Coding, Web Development, DSA**
 
 - 📫 How to reach me **param.bavarva.0397@gmail.com**
 
